@@ -1,0 +1,30 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.link{
+    align-self: center;
+    font-size: 1.5em;
+}
+.containerSpacing{
+    margin-bottom: 35px;
+    padding: 10px;
+}
+.titleLink{
+    text-decoration: none;
+    font-size: 1.25em;
+}
+.title:hover{
+    text-decoration: underline;
+}
+.errors{
+    color: red;
+}
+.noAnchorStyling {
+    text-decoration: none;
+    color: inherit;
+}
+.noAnchorStyling:hover{
+    color:cornflowerblue;
+}
